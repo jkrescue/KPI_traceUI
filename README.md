@@ -1,7 +1,7 @@
 
   # Interactive KPI Dashboard
 
-  This is a code bundle for Interactive KPI Dashboard. The original project is available at
+  This is a code bundle for Interactive KPI Dashboard.
 
   ## Running the code
 
