@@ -1,7 +1,7 @@
 
   # Interactive KPI Dashboard
 
-  This is a code bundle for Interactive KPI Dashboard. The original project is available at https://www.figma.com/design/mTST8oIWWwWt7YiWd3fdgX/Interactive-KPI-Dashboard.
+  This is a code bundle for Interactive KPI Dashboard. The original project is available at
 
   ## Running the code
 
